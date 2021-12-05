@@ -10,7 +10,7 @@ Time proves everything ! 🏃‍♂️
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/songdaochuanshu?label=Github&style=social)](https://github.com/aboutnb/)
 [![Blog](https://img.shields.io/badge/blog-XiaoBo-blue)](https://www.aboutnb.com/)
-[![Mail](https://img.shields.io/badge/mail-aboutnanbo@163.com-red)](mailto:aboutnanbo@163.com)
+[![Mail](https://img.shields.io/badge/Email-aboutnanbo@163.com-red)](mailto:aboutnanbo@163.com)
 
 
 
