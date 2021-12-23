@@ -13,13 +13,6 @@ Time proves everything ! 🏃‍♂️
 [![Mail](https://img.shields.io/badge/Email-aboutnanbo@163.com-red)](mailto:aboutnanbo@163.com)
 
 
-
-&nbsp;
-
-Thanks for stopping by! 😁
-
----
-
 The most used languages across my projects are:
 
 
@@ -34,3 +27,9 @@ The most used languages across my projects are:
 ![Dockerfile](https://img.shields.io/static/v1?style=flat-square&label=Dockerfile&color=555&labelColor=%23384d54&message=0%25)
 
 
+
+&nbsp;
+
+Thanks for stopping by! 😁
+
+---
