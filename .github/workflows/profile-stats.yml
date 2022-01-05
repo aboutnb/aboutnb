@@ -1,27 +1,37 @@
-name: update README
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  schedule:
-    - cron: '0 21 * * *' #  21:00 UTC every day (BeiJing Time 05:00)   
-  push:
-    branches:
-      - main
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  publish:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: devmount/profile-readme-stats@v1.3
-      with:
-        token: ${{ secrets.PROFILE_STATS_TOKEN }}
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name ${{ secrets.USER_NAME }}
-        git config user.email ${{ secrets.USER_EMAIL }}
-        git add .
-        git commit -m "📈 update profile stats"
-        git push
-        fi
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+          # Options
+          user: aboutnb
+          template: terminal
+          base: header, activity, metadata
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
