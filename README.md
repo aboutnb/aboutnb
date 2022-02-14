@@ -16,6 +16,7 @@ Time proves everything ! 🏃‍♂️
 The most used languages across my projects are:
 
 
+
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=62.6%25)
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&color=555&labelColor=%23f1e05a&message=36.9%25)
