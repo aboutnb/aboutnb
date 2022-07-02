@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 2 Jul 2022, 20:30:05
+Last generated: 2 Jul 2022, 21:24:58
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>XiaoBo</b> registered=1y, uid=1354, gid=1
   contributed to 10 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -61,7 +61,7 @@ Last generated: 2 Jul 2022, 20:30:05
 <b>X-Performance</b>: 0%
 <b>X-Accessibility</b>: 100%
 <b>X-Best-Practices</b>: 92%
-<b>X-SEO</b>: 90%
+<b>X-SEO</b>: 100%
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
             <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="margin-top: -130px;" viewBox="0,0 480,170">
@@ -988,7 +988,7 @@ Last generated: 2 Jul 2022, 20:30:05
 
 
 
-<footer>Connection reset by 172.159.18.41</footer></pre>
+<footer>Connection reset by 18.104.23.130</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
