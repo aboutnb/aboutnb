@@ -13,14 +13,10 @@ Time proves everything ! 🏃‍♂️
 
 ## The most used languages across my projects are:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutnb)](https://github.com/anuraghazra/github-readme-stats)
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=HTML&color=555&labelColor=%23e34c26&message=62.6%25)
 
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&color=555&labelColor=%23f1e05a&message=36.9%25)
-
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&color=555&labelColor=%23563d7c&message=0.3%25)
-
-![Dockerfile](https://img.shields.io/static/v1?style=flat-square&label=Dockerfile&color=555&labelColor=%23384d54&message=0%25)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutnb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 &nbsp;
 
@@ -28,3 +24,5 @@ Thanks for stopping by! 😁
 
 
 ----
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aboutnb&repo=XiaoBo)](https://github.com/anuraghazra/github-readme-stats)
