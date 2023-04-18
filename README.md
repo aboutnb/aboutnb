@@ -25,4 +25,4 @@ Thanks for stopping by! 😁
 
 ----
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aboutnb&repo=XiaoBo)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aboutnb&repo=XiaoBo)](https://github.com/anuraghazra/github-readme-stats) -->
