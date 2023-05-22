@@ -12,10 +12,10 @@ Time proves everything ! 🏃‍♂️
 [![Mail](https://img.shields.io/badge/Email-aboutnanbo@163.com-red)](mailto:aboutnanbo@163.com)
 
 ## The most used languages across my projects are:
-
+[!XiaoBo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutnb&show_icons=true&line_height=33.7&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutnb)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tuanzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutnb&show_icons=true&line_height=33.7&theme=buefy)
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutnb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 &nbsp;
