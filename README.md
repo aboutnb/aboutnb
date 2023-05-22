@@ -15,7 +15,7 @@ Time proves everything ! 🏃‍♂️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboutnb)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Tuanzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutnb&show_icons=true&line_height=33.7&theme=buefy)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboutnb&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
 
 &nbsp;
