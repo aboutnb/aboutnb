@@ -37,7 +37,7 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 25 Feb 2025, 17:05:56
+Last generated: 25 Feb 2025, 18:05:59
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>XiaoBo</b> registered=3y, uid=1354, gid=1
   contributed to 14 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
@@ -61,7 +61,7 @@ Last generated: 25 Feb 2025, 17:05:56
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># curl -I https://www.aboutnb.com</div><div class="stdout"><b>User-Agent</b>: Google PageSpeed API
 <b>Location</b>: https://www.aboutnb.com
-<b>X-Performance</b>: 90%
+<b>X-Performance</b>: 89%
 <b>X-Accessibility</b>: 92%
 <b>X-Best-Practices</b>: 96%
 <b>X-SEO</b>: 100%
@@ -1006,7 +1006,7 @@ Last generated: 25 Feb 2025, 17:05:56
 
 
 
-<footer>Connection reset by 233.51.232.171</footer></pre>
+<footer>Connection reset by 219.136.61.165</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
