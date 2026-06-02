@@ -37,27 +37,27 @@
 These generated metrics comes with ABSOLUTELY NO
 WARRANTY, to the extent permitted by applicable law.
 
-Last generated: 2 Jun 2026, 21:24:41
+Last generated: 2 Jun 2026, 23:29:26
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>XiaoBo</b> registered=5y, uid=1354, gid=0
-  contributed to 11 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 11 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span></b>
   followed by <b>13</b> users
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b>  259</b> commits
+  <b>  261</b> commits
   <b>    0</b> pull requests reviewed
   <b>    0</b> pull requests opened
   <b>    1</b> issue opened
   <b>    2</b> issue comments
 </div>
-<div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>VUE         </b> [#######             ] 31.46%
-<b>TYPESCRIPT  </b> [######              ] 29.82%
-<b>JAVASCRIPT  </b> [####                ] 15.41%
-<b>PYTHON      </b> [##                  ] 9.63 %
-<b>ASTRO       </b> [##                  ] 7.89 %
-<b>SCSS        </b> [#                   ] 4.62 %
-<b>CSS         </b> [#                   ] 0.95 %
-<b>SHELL       </b> [#                   ] 0.23 %
+<div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>VUE         </b> [#######             ] 31.08%
+<b>TYPESCRIPT  </b> [######              ] 29.45%
+<b>JAVASCRIPT  </b> [####                ] 15.39%
+<b>PYTHON      </b> [###                 ] 10.46%
+<b>ASTRO       </b> [##                  ] 7.79 %
+<b>SCSS        </b> [#                   ] 4.56 %
+<b>CSS         </b> [#                   ] 0.98 %
+<b>SHELL       </b> [#                   ] 0.30 %
 </div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># curl -I </div><div class="stdout"><span class="error">API error: 429 ((consider using "plugin_pagespeed_token"))</span></div>
 <div class="stdin"><span class="ps1-path">aboutnb@metrics</span>:<span class="ps1-location">~</span># ncal -MB5</div><div class="stdout"><div class="isocalendar">
@@ -1000,7 +1000,7 @@ Last generated: 2 Jun 2026, 21:24:41
 
 
 
-<footer>Connection reset by 217.30.38.248</footer></pre>
+<footer>Connection reset by 163.214.240.190</footer></pre>
 
     </div>
     <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
